@@ -12,3 +12,10 @@ D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt\Projekt_Grafy\Temat18\
 D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt\Projekt_Grafy\Temat18\obj\Debug\Temat18.csproj.CoreCompileInputs.cache
 D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt\Projekt_Grafy\Temat18\obj\Debug\Temat18.exe
 D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt\Projekt_Grafy\Temat18\obj\Debug\Temat18.pdb
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\bin\Debug\Temat18.exe.config
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\bin\Debug\Temat18.exe
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\bin\Debug\Temat18.pdb
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\obj\Debug\Temat18.csproj.AssemblyReference.cache
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\obj\Debug\Temat18.csproj.CoreCompileInputs.cache
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\obj\Debug\Temat18.exe
+D:\Michal\SGGW\Semestr 4\Grafy i Sieci\Zaliczenie\Projekt_Grafy\Temat18\obj\Debug\Temat18.pdb

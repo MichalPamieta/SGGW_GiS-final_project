@@ -258,7 +258,7 @@ namespace Temat18
         static void Main(string[] args)
         {
             Console.WriteLine("\n       PROJEKT NA PRZEDMIOT: GRAFY I SIECI \n\n   WYBRANY TEMAT: \n       18. Zaprojektować i zaimplementować algorytm poszukiwana maksymalnej liczby dróg \n" +
-            "       krawędziowo rozłącznych między dwoma dowolnymi wierzchołkami grafu spójnego. \n\n       AUTOR:\n        Michał Pamięta\n        196099");
+            "       krawędziowo rozłącznych między dwoma dowolnymi wierzchołkami grafu spójnego. \n\n       AUTOR:\n        Michał Pamięta");
             Console.WriteLine("\n\n\n");
             Uruchom();
             bool czyRestart = true;
