@@ -1,4 +1,4 @@
-# SGGW_GiS-final_project
+# Graphs and Networks - final project
 Student project using C# and BFS algorithm
 
 PROJEKT NA ZALICZENIE PRZEDMIOTU GRAFY I SIECI   
